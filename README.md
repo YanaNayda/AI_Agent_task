@@ -114,8 +114,5 @@ AI_Agent_task/
 * REST APIs
 * JSON storage
 
----
 
-## 👩‍💻 Author
 
-Yana Naydenova
